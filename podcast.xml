@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version='2.0' xmlns:content='http://purl.org/rss/1.0/modules/content/' xmlns:itunes='http://www.itunes.com/dtds/podcast-1.0.dtd'>
+    <channel>
+        <language>en-US</language>
+        <copyright>Copyright 2022 High Tops Media &amp; Dean Gutic</copyright>
+        <title>One on One</title>
+        <description><![CDATA[<p>Heavy Hitters, hosted by Dean Gutic, is your one-stop shop for all things contact sports. Every week, Dean will be discussing the likes of college football, hockey, and UFC fighting. Be sure to tune in weekly for all the heavy hits and harder takes!</p>
+]]></description>
+        <link>https://heavy-hitters.hightops.media//</link>
+		
+        <itunes:image href='https://heavy-hitters.hightops.media//assets/CoverArtSeason1.jpg'/>
+        
+		<itunes:category text='Sports'/>
+		
+		<itunes:author>High Tops Media &amp; Dean Gutic</itunes:author>
+        <itunes:owner>
+            <itunes:name>This Strange World Podcast Administrator</itunes:name>
+            <itunes:email>admin@thisstrangeworldpodcast.com</itunes:email>
+        </itunes:owner>
+		
+        <itunes:explicit>true</itunes:explicit>
+        <itunes:type>episodic</itunes:type>
+    </channel>
+</rss>
