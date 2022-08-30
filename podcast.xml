@@ -20,5 +20,29 @@
 		
         <itunes:explicit>true</itunes:explicit>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title>Introducing Heavy Hitters</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/HH/HH_S01_00_Trailer1.mp3' length='1450655' type='audio/mpeg'/>
+			<guid>2022-08-30-Trailer1</guid>
+            <pubDate>Tue, 30 Aug 2022 01:00:00 -0400</pubDate>
+            <description><![CDATA[<p>Heavy Hitters, hosted by Dean Gutic, is your one-stop shop for all things contact sports. Every week, Dean will be discussing the likes of college football, hockey, and UFC fighting. Be sure to tune in weekly for all the heavy hits and harder takes!</p>
+
+<p>Don’t forget to follow on Instagram! <br />
+https://www.instagram.com/heavyhittershtm/</p>
+
+<p>A High Tops Media Podcast
+You can follow for more High Tops Media content on Facebook, Instagram, and Twitter: @hightopsmedia<br />
+And to find more podcasts with High Tops Sports, check out @hightopssports on Instagram<br />
+Check out more podcasts on our website https://hightops.media</p>
+]]></description>
+            <itunes:duration>60</itunes:duration>
+            <link>https://heavy-hitters.hightops.media//2022/08/30/Trailer1/</link>
+			<itunes:image href='https://heavy-hitters.hightops.media//assets/CoverArtSeason1.png'/>
+            <itunes:explicit>false</itunes:explicit>
+			
+			<itunes:episode>0</itunes:episode>
+			<itunes:season>1</itunes:season>
+            <itunes:episodeType>trailer</itunes:episodeType>
+        </item>
     </channel>
 </rss>
