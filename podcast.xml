@@ -21,6 +21,30 @@
         <itunes:explicit>true</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>College Football Recap/Preview, NHL Segment Debut, Heaviest Slam Of the Week</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/HH/HH_S01_03_College-Football-Recap-Preview.mp3' length='66013056' type='audio/mpeg'/>
+			<guid>2022-09-23-College-Football-Recap-Preview</guid>
+            <pubDate>Fri, 23 Sep 2022 00:30:00 -0400</pubDate>
+            <description><![CDATA[<p>This week on the Heavy Hitters podcast, Dean gives us a recap of what happened in week 3 along with an update of the AP Poll and a preview for what’s to come for week 4. After that, Dean gives us part 1 of his NHL predictions along with his reaction to the Nathan Mackinnon news. Finally, Dean gives us his signature heaviest hit of the week, but for this week it’s slam.</p>
+
+<p>Don’t forget to follow on Instagram! <br />
+https://www.instagram.com/heavyhittershtm/</p>
+
+<p>A High Tops Media Podcast
+You can follow for more High Tops Media content on Facebook, Instagram, and Twitter: @hightopsmedia<br />
+And to find more podcasts with High Tops Sports, check out @hightopssports on Instagram<br />
+Check out more podcasts on our website https://hightops.media</p>
+]]></description>
+            <itunes:duration>2750</itunes:duration>
+            <link>https://heavy-hitters.hightops.media//2022/09/23/College-Football-Recap-Preview/</link>
+			<itunes:image href='https://heavy-hitters.hightops.media//assets/CoverArtSeason1NEW.jpg'/>
+            <itunes:explicit>false</itunes:explicit>
+			
+			<itunes:episode>3</itunes:episode>
+			<itunes:season>1</itunes:season>
+            
+        </item>
+        <item>
             <title>Chaos in College Football, UFC 279 Recap, Heaviest Hit of the Week</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/HH/HH_S01_02_Chaos-in-College-Football.mp3' length='43332079' type='audio/mpeg'/>
 			<guid>2022-09-16-Chaos-in-College-Football</guid>
