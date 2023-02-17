@@ -8,11 +8,11 @@
 ]]></description>
         <link>https://heavy-hitters.hightops.media//</link>
 		
-        <itunes:image href='https://heavy-hitters.hightops.media//assets/CoverArtSeason1NEW.jpg'/>
+        <itunes:image href='https://heavy-hitters.hightops.media//assets/CoverArtSeason2.jpg'/>
         
 		<itunes:category text='Sports'/>
 		
-		<itunes:author>High Tops Media &amp; Dean Gutic</itunes:author>
+		<itunes:author>High Tops Media &amp; Dean Gutic, Charlie Norman</itunes:author>
         <itunes:owner>
             <itunes:name>This Strange World Podcast Administrator</itunes:name>
             <itunes:email>admin@thisstrangeworldpodcast.com</itunes:email>
@@ -20,6 +20,30 @@
 		
         <itunes:explicit>true</itunes:explicit>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title>Super Bowl 57 Recap/Reaction</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/HH/HH_S02_01_Super-Bowl-57-Recap-Reaction.mp3' length='53476838' type='audio/mpeg'/>
+			<guid>2022-02-17-Super-Bowl-57-Recap-Reaction</guid>
+            <pubDate>Fri, 17 Feb 2023 07:00:00 -0500</pubDate>
+            <description><![CDATA[<p>Heavy Hitters is back for their second season! This week, Dean Gutic, along with his new co-host Charlie Norman, gives us a recap of Super Bowl 57 as the Kansas City Chiefs defeated the Philadelphia Eagles 38-35, along with their reaction to the big game and the halftime show.</p>
+
+<p>Don’t forget to follow on Instagram! <br />
+https://www.instagram.com/heavyhittershtm/</p>
+
+<p>A High Tops Media Podcast
+You can follow for more High Tops Media content on Facebook, Instagram, and Twitter: @hightopsmedia<br />
+And to find more podcasts with High Tops Sports, check out @hightopssports on Instagram<br />
+Check out more podcasts on our website https://hightops.media</p>
+]]></description>
+            <itunes:duration>2227</itunes:duration>
+            <link>https://heavy-hitters.hightops.media//2023/02/17/Super-Bowl-57-Recap-Reaction/</link>
+			<itunes:image href='https://heavy-hitters.hightops.media//assets/CoverArtSeason2.jpg'/>
+            <itunes:explicit>false</itunes:explicit>
+			
+			<itunes:episode>1</itunes:episode>
+			<itunes:season>2</itunes:season>
+            
+        </item>
         <item>
             <title>College Football Championship Weekend Predictions</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/HH/HH_S01_11_College-Football-Championship-Weekend-Predictions.mp3' length='32776669' type='audio/mpeg'/>
@@ -307,30 +331,6 @@ Check out more podcasts on our website https://hightops.media</p>
 			<itunes:episode>0</itunes:episode>
 			<itunes:season>1</itunes:season>
             <itunes:episodeType>trailer</itunes:episodeType>
-        </item>
-        <item>
-            <title>Super Bowl 57 Recap/Reaction</title>
-            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/HH/HH_S02_01_Super-Bowl-57-Recap-Reaction.mp3' length='53476838' type='audio/mpeg'/>
-			<guid>2022-02-17-Super-Bowl-57-Recap-Reaction</guid>
-            <pubDate>Thu, 17 Feb 2022 07:00:00 -0500</pubDate>
-            <description><![CDATA[<p>Heavy Hitters is back for their second season! This week, Dean Gutic, along with his new co-host Charlie Norman, gives us a recap of Super Bowl 57 as the Kansas City Chiefs defeated the Philadelphia Eagles 38-35, along with their reaction to the big game and the halftime show.</p>
-
-<p>Don’t forget to follow on Instagram! <br />
-https://www.instagram.com/heavyhittershtm/</p>
-
-<p>A High Tops Media Podcast
-You can follow for more High Tops Media content on Facebook, Instagram, and Twitter: @hightopsmedia<br />
-And to find more podcasts with High Tops Sports, check out @hightopssports on Instagram<br />
-Check out more podcasts on our website https://hightops.media</p>
-]]></description>
-            <itunes:duration>2227</itunes:duration>
-            <link>https://heavy-hitters.hightops.media//2022/02/17/Super-Bowl-57-Recap-Reaction/</link>
-			<itunes:image href='https://heavy-hitters.hightops.media//assets/CoverArtSeason1NEW.jpg'/>
-            <itunes:explicit>false</itunes:explicit>
-			
-			<itunes:episode>1</itunes:episode>
-			<itunes:season>2</itunes:season>
-            
         </item>
     </channel>
 </rss>
