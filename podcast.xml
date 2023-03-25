@@ -21,6 +21,30 @@
         <itunes:explicit>true</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>MLB AL Preview & WBC Review</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/HH/HH_S02_05_MLB-AL-Preview.mp3' length='73101980' type='audio/mpeg'/>
+			<guid>2023-03-25-MLB-AL-Preview</guid>
+            <pubDate>Sat, 25 Mar 2023 12:00:00 -0400</pubDate>
+            <description><![CDATA[<p>This week on the Heavy Hitters podcast, Dean and Charlie preview the AL, giving us their predictions along with giving a recap of the World Baseball Classic.</p>
+
+<p>Don’t forget to follow on Instagram! <br />
+https://www.instagram.com/heavyhittershtm/</p>
+
+<p>A High Tops Media Podcast
+You can follow for more High Tops Media content on Facebook, Instagram, and Twitter: @hightopsmedia<br />
+And to find more podcasts with High Tops Sports, check out @hightopssports on Instagram<br />
+Check out more podcasts on our website https://hightops.media</p>
+]]></description>
+            <itunes:duration>3045</itunes:duration>
+            <link>https://heavy-hitters.hightops.media//2023/03/25/MLB-AL-Preview/</link>
+			<itunes:image href='https://heavy-hitters.hightops.media//assets/CoverArtSeason2.jpg'/>
+            <itunes:explicit>false</itunes:explicit>
+			
+			<itunes:episode>5</itunes:episode>
+			<itunes:season>2</itunes:season>
+            
+        </item>
+        <item>
             <title>MLB Part 3 Division Preview, NFL QB Carousel, and Jon Jones</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/HH/HH_S02_04_MLB-Part-3-Division-Preview.mp3' length='70820611' type='audio/mpeg'/>
 			<guid>2023-03-10-MLB-Part-3-Division-Preview</guid>
