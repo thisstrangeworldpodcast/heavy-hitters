@@ -21,6 +21,30 @@
         <itunes:explicit>true</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>MLB Opening Weekend, NFL Free Agency Reactions, NHL Wild Card Race</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/HH/HH_S02_06_MLB-Opening-Weekend.mp3' length='59661583' type='audio/mpeg'/>
+			<guid>2023-04-03-MLB-Opening-Weekend</guid>
+            <pubDate>Mon, 03 Apr 2023 01:00:00 -0400</pubDate>
+            <description><![CDATA[<p>This week on the Heavy Hitters podcast, Dean and Charlie welcome us into the 2023 MLB season as they give us their thoughts so far on the new rules in baseball with opening weekend, along with what they have seen from their teams and other teams across the MLB. Then they give us their reactions in NFL free agency to the moves that have occurred so far this offseason. They end off with some wild card predictions in the NHL along with the update on the standings and the playoff race.</p>
+
+<p>Don’t forget to follow on Instagram! <br />
+https://www.instagram.com/heavyhittershtm/</p>
+
+<p>A High Tops Media Podcast
+You can follow for more High Tops Media content on Facebook, Instagram, and Twitter: @hightopsmedia<br />
+And to find more podcasts with High Tops Sports, check out @hightopssports on Instagram<br />
+Check out more podcasts on our website https://hightops.media</p>
+]]></description>
+            <itunes:duration>2485</itunes:duration>
+            <link>https://heavy-hitters.hightops.media//2023/04/03/MLB-Opening-Weekend/</link>
+			<itunes:image href='https://heavy-hitters.hightops.media//assets/CoverArtSeason2.jpg'/>
+            <itunes:explicit>false</itunes:explicit>
+			
+			<itunes:episode>6</itunes:episode>
+			<itunes:season>2</itunes:season>
+            
+        </item>
+        <item>
             <title>MLB AL Preview & WBC Review</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/HH/HH_S02_05_MLB-AL-Preview.mp3' length='73101980' type='audio/mpeg'/>
 			<guid>2023-03-25-MLB-AL-Preview</guid>
