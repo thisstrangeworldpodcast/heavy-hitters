@@ -21,6 +21,30 @@
         <itunes:explicit>true</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>Super Bowl 58 Recap and Rant</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/HH/HH_S03_20_Super-Bowl-58-Recap-and-Rant.mp3' length='27978471' type='audio/mpeg'/>
+			<guid>2024-02-16-Super-Bowl-58-Recap-and-Rant</guid>
+            <pubDate>Fri, 16 Feb 2024 09:30:00 -0500</pubDate>
+            <description><![CDATA[<p>This week on Heavy Hitters, Dean gives us a recap of what happened in Super Bowl 58 after the Kansas City Chiefs defeated the San Francisco 49ers in OT, along with a special rant on the Super Bowl and on the NFL, including from this season.</p>
+
+<p>Don’t forget to follow on Instagram! <br />
+https://www.instagram.com/heavyhittershtm/</p>
+
+<p>A High Tops Media Podcast
+You can follow for more High Tops Media content on Facebook, Instagram, and Twitter: @hightopsmedia<br />
+And to find more podcasts with High Tops Sports, check out @hightopssports on Instagram<br />
+Check out more podcasts on our website https://hightops.media</p>
+]]></description>
+            <itunes:duration>1630</itunes:duration>
+            <link>https://heavy-hitters.hightops.media//2024/02/16/Super-Bowl-58-Recap-and-Rant/</link>
+			<itunes:image href='https://heavy-hitters.hightops.media//assets/CoverArtSeason2.jpg'/>
+            <itunes:explicit>false</itunes:explicit>
+			
+			<itunes:episode>20</itunes:episode>
+			<itunes:season>3</itunes:season>
+            
+        </item>
+        <item>
             <title>Super Bowl 58 Preview and Predictions</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/HH/HH_S03_19_Super-Bowl-58-Preview-and-Predictions.mp3' length='19000119' type='audio/mpeg'/>
 			<guid>2024-02-10-Super-Bowl-58-Preview-and-Predictions</guid>
